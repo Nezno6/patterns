@@ -3,9 +3,7 @@ package simple.theory.pattern.singleton;
 public class Counter {
     private int currentValue;
 
-    Counter() {
-        currentValue = getCurrentValue();
-    }
+    Counter() {}
 
     public int getCurrentValue() {
         return currentValue;
