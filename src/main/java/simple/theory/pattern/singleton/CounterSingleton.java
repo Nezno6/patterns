@@ -1,4 +1,11 @@
-// SINGLETON -
+// SINGLETON
+// def. dana klasa będzie miała tylko i wyłącznie jedną instancję obiektu,
+// i gwarantuje globalny punkt dostępu do tej instancji.
+//
+// Jest określany jako antywzorzec ponieważ używa obiektów statycznych.
+//
+//
+
 
 package simple.theory.pattern.singleton;
 
