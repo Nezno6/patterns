@@ -7,7 +7,7 @@
 //
 
 
-package simple.theory.pattern.singleton;
+package simple.theory.pattern.singleton.good;
 
 public class CounterSingleton {
     private volatile static CounterSingleton uniqueInstance = new CounterSingleton();

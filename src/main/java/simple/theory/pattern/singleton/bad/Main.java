@@ -1,4 +1,6 @@
-package simple.theory.pattern.singleton;
+package simple.theory.pattern.singleton.bad;
+
+import simple.theory.pattern.singleton.bad.Counter;
 
 public class Main {
     public static void main(String[] args) {

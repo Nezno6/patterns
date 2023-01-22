@@ -1,4 +1,6 @@
-package simple.theory.pattern.singleton;
+package simple.theory.pattern.singleton.good;
+
+import simple.theory.pattern.singleton.good.CounterSingleton;
 
 public class MainSingleton {
     public static void main(String[] args) {

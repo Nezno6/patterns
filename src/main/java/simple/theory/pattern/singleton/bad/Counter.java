@@ -1,4 +1,4 @@
-package simple.theory.pattern.singleton;
+package simple.theory.pattern.singleton.bad;
 
 public class Counter {
     private int currentValue;
